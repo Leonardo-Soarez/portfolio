@@ -6,7 +6,7 @@ function somar (){
     let idade = 0;
     
 //Entrada para o usuario digitar
-    ano1 = Number(window.prompt('Digite o ano que estamos: '));
+    ano1 = Number(window.prompt('Digite seu ano de nascimento: '));
 
 //subtrai as variaveis
     idade = 2025 - ano1;
